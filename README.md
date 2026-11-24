@@ -1,4 +1,4 @@
-# oscommerce_2.3.4_rce
+# OSCOMMERCE 2.3.4 RCE
 # Usage: 
 
 ```
